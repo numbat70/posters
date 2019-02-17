@@ -6,7 +6,9 @@
 
 and [raw files on GitHub](https://github.com/alphagov/govdesign)
 
-```And one of our favourites: [Research Cards](posters/Cards_User_Research_Activities.pdf)```
+```And one of our favourites: 
+[Research Cards](Cards_User_Research_Activities.pdf)
+```
 
 ---
 ---
