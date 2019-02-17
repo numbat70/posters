@@ -10,8 +10,6 @@ and [raw files on GitHub](https://github.com/alphagov/govdesign)
 
 ---
 
-
-
 ## Home Office Posters
 Home Office repository of posters covering different topics - research, access needs, accessibility and design.  
 
