@@ -13,7 +13,7 @@ and [raw files on GitHub](https://github.com/alphagov/govdesign)
 > - [Good services are Nouns](Poster_GoodServices.pdf)
 > - [One thing per page](Poster_OneThingPerPage.pdf)
 > - [Strategy is Delivery](Poster_The strategy is delivery.pdf)
-> - [Delivery is teh Strategy](Poster_The strategy is delivery.pdf)
+> - [Delivery is the Strategy](Poster_The strategy is delivery.pdf)
 
 
 
