@@ -1,5 +1,5 @@
 
-# This is a merge of various gov.uk posters: Home Office Posters
+# This is a merge of various gov.uk posters
 
 
 ## Home Office Posters
