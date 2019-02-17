@@ -7,13 +7,13 @@
 and [raw files on GitHub](https://github.com/alphagov/govdesign)
 
 >And some of our favourites: 
->[Research Cards](Cards_User_Research_Activities.pdf)
->[Task not Technology](Poster_DescribeTheTask.pdf)
->[Content is UX](Poster_Content-Design.pdf)
->[Good services are Nouns](Poster_GoodServices.pdf)
->[One thing per page](Poster_OneThingPerPage.pdf)
->[Strategy is Delivery](Poster_The strategy is delivery.pdf)
->[Delivery is teh Strategy](Poster_The strategy is delivery.pdf)
+> - [Research Cards](Cards_User_Research_Activities.pdf)
+> - [Task not Technology](Poster_DescribeTheTask.pdf)
+> - [Content is UX](Poster_Content-Design.pdf)
+> - [Good services are Nouns](Poster_GoodServices.pdf)
+> - [One thing per page](Poster_OneThingPerPage.pdf)
+> - [Strategy is Delivery](Poster_The strategy is delivery.pdf)
+> - [Delivery is teh Strategy](Poster_The strategy is delivery.pdf)
 
 
 
