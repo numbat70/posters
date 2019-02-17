@@ -6,7 +6,7 @@
 
 and [raw files on GitHub](https://github.com/alphagov/govdesign)
 
->And some of our favourites: 
+And some of our favourites: 
 > - [Research Cards](Cards_User_Research_Activities.pdf)
 > - [Task not Technology](Poster_DescribeTheTask.pdf)
 > - [Content is UX](Poster_Content-Design.pdf)
