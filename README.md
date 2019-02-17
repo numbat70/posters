@@ -14,9 +14,8 @@ And some of our favourites:
 > - [One thing per page](Poster_OneThingPerPage.pdf)
 > - [The Strategy is Delivery](Poster_The_strategy_is_delivery.pdf)
 
-[Design principle doodles posters](http://www.git-browser.com/psd/design-principles-doodles/posters)
-
-[User Research stickers](https://salmapatel.co.uk/user-research/list-of-user-research-stickers-and-posters/)
+- [Design principle doodles posters](http://www.git-browser.com/psd/design-principles-doodles/posters)
+- [User Research stickers](https://salmapatel.co.uk/user-research/list-of-user-research-stickers-and-posters/)
 
 ---
 
