@@ -16,6 +16,8 @@ And some of our favourites:
 
 [Design principle doodles posters](http://www.git-browser.com/psd/design-principles-doodles/posters)
 
+[User Research stickers](https://salmapatel.co.uk/user-research/list-of-user-research-stickers-and-posters/)
+
 ---
 
 ## Home Office Posters
