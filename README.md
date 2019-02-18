@@ -1,6 +1,6 @@
 
 # Scottish Posters
-- [Do the hard work](files/SaltireDoTheHardWork.pdf)
+- [Do the hard work](files/SaltireDotheHardWork.pdf)
 - [Users have Needs](files/SaltireUserNeeds.pdf)
 - [Add Simplicity](files/SaltireSimplicity.pdf)
 
