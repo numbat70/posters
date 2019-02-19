@@ -3,7 +3,7 @@
 - [Do the hard work](files/SaltireDotheHardWork.pdf)
 - [Users have Needs](files/SaltireUserNeeds.pdf)
 - [Add Simplicity](files/SaltireSimplicity.pdf)
-- Scottish Poster StyleGuide(SaltireStyles.pdf)
+- [Scottish Poster StyleGuide](SaltireStyles.pdf)
 
 ---
 
