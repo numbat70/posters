@@ -3,13 +3,12 @@
 - [Do the hard work](files/SaltireDotheHardWork.pdf)
 - [Users have Needs](files/SaltireUserNeeds.pdf)
 - [Add Simplicity](files/SaltireSimplicity.pdf)
-- [Scottish Poster StyleGuide](SaltireStyles.pdf)
 - [Government Needs](files/SaltireGovernmentNeeds.pdf)
 - [Types of need](files/SaltireNeedTypesv2.pdf)
-- [Research OutputsSaltireServiceDesignFuzy.pdf](files/SaltireResearchOutputs.pdf)
+- [Research Outputs.pdf](files/SaltireResearchOutputs.pdf)
 - [Service design is...](files/SaltireServiceDesignFuzy.pdf)
 
-
+- [Scottish Poster StyleGuide](SaltireStyles.pdf)
 
 
 ---
