@@ -7,7 +7,6 @@
 - [Types of need](files/SaltireNeedTypesv2.pdf)
 - [Research Outputs.pdf](files/SaltireResearchOutputs.pdf)
 - [Service design is...](files/SaltireServiceDesignFuzy.pdf)
-
 - [Scottish Poster StyleGuide](SaltireStyles.pdf)
 
 
