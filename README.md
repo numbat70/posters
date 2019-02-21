@@ -9,7 +9,6 @@
 - [Service design is...](files/SaltireServiceDesignFuzy.pdf)
 - [Scottish Poster StyleGuide](SaltireStyles.pdf)
 
-
 ---
 
 # Govdesign Posters
