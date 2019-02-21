@@ -4,6 +4,13 @@
 - [Users have Needs](files/SaltireUserNeeds.pdf)
 - [Add Simplicity](files/SaltireSimplicity.pdf)
 - [Scottish Poster StyleGuide](SaltireStyles.pdf)
+- [Government Needs](files/SaltireGovernmentNeeds.pdf)
+- [Types of need](files/SaltireNeedTypesv2.pdf)
+- [Research OutputsSaltireServiceDesignFuzy.pdf](files/SaltireResearchOutputs.pdf)
+- [Service design is...](files/SaltireServiceDesignFuzy.pdf)
+
+
+
 
 ---
 
@@ -19,6 +26,7 @@ And some of our favourites:
 > - [Good services are Nouns](Poster_GoodServices.pdf)
 > - [One thing per page](Poster_OneThingPerPage.pdf)
 > - [The Strategy is Delivery](Poster_The_strategy_is_delivery.pdf)
+> - [Who to include whenresearching access needs](files/Research-who_to_include_when?.pdf)
 
 - [Design principle doodles posters](http://www.git-browser.com/psd/design-principles-doodles/posters)
 - [User Research stickers](https://salmapatel.co.uk/user-research/list-of-user-research-stickers-and-posters/)
