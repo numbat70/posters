@@ -66,7 +66,7 @@ These [posters](https://github.com/UKHomeOffice/posters/blob/master/accessibilit
 
 You can read about how the Do's and Don'ts posters were developed on our blog: https://accessibility.blog.gov.uk/2016/09/02/dos-and-donts-on-designing-for-accessibility/
 
-> - [Who to include whenresearching access needs](files/Research-who_to_include_when.pdf)
+> - [Who to include when researching access needs](files/Research-who_to_include_when.pdf)
 
 ### Discovery Alpha Beta Live
 
