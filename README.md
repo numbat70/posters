@@ -24,7 +24,7 @@ And some of our favourites:
 > - [Good services are Nouns](Poster_GoodServices.pdf)
 > - [One thing per page](Poster_OneThingPerPage.pdf)
 > - [The Strategy is Delivery](Poster_The_strategy_is_delivery.pdf)
-> - [Who to include whenresearching access needs](files/Research-who_to_include_when.pdf)
+
 
 - [Design principle doodles posters](http://www.git-browser.com/psd/design-principles-doodles/posters)
 - [User Research stickers](https://salmapatel.co.uk/user-research/list-of-user-research-stickers-and-posters/)
@@ -66,6 +66,8 @@ These [posters](https://github.com/UKHomeOffice/posters/blob/master/accessibilit
 * Visually impaired - screenreader users
 
 You can read about how the Do's and Don'ts posters were developed on our blog: https://accessibility.blog.gov.uk/2016/09/02/dos-and-donts-on-designing-for-accessibility/
+
+> - [Who to include whenresearching access needs](files/Research-who_to_include_when.pdf)
 
 ### Discovery Alpha Beta Live
 
