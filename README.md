@@ -8,6 +8,8 @@
 - [Research Outputs](files/SaltireResearchOutputs.pdf)
 - [Service design is...](files/SaltireServiceDesignFuzy.pdf)
 - [Scottish Poster StyleGuide](SaltireStyles.pdf)
+- [Scottish Poster Logo Resources](Resources.md)
+
 
 ---
 
