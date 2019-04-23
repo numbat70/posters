@@ -7,6 +7,13 @@
 - [Types of need](files/SaltireNeedTypesv2.pdf)
 - [Research Outputs](files/SaltireResearchOutputs.pdf)
 - [Service design is...](files/SaltireServiceDesignFuzy.pdf)
+## Problems faced when using our websites (Digital Inclusion)
+- [Access](SaltireProblemsAccess.pdf)
+- [Skills](SaltireProblemsSkills.pdf)
+- [Motivation](SaltireProblemsMotivation.pdf)
+- [Trust](SaltireProblemsTrust.pdf)
+
+## Resources
 - [Scottish Poster StyleGuide](SaltireStyles.pdf)
 - [Scottish Poster Logo Resources](Resources.md)
 
