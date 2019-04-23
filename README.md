@@ -8,10 +8,10 @@
 - [Research Outputs](files/SaltireResearchOutputs.pdf)
 - [Service design is...](files/SaltireServiceDesignFuzy.pdf)
 ## Problems faced when using our websites (Digital Inclusion)
-- [Access](SaltireProblemsAccess.pdf)
-- [Skills](SaltireProblemsSkills.pdf)
-- [Motivation](SaltireProblemsMotivation.pdf)
-- [Trust](SaltireProblemsTrust.pdf)
+- [Access](files/SaltireProblemsAccess.pdf)
+- [Skills](files/SaltireProblemsSkills.pdf)
+- [Motivation](files/SaltireProblemsMotivation.pdf)
+- [Trust](files/SaltireProblemsTrust.pdf)
 
 ## Resources
 - [Scottish Poster StyleGuide](SaltireStyles.pdf)
